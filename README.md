@@ -1,2 +1,2 @@
-# QR_Scanner
+#  Quasar QR_Scanner
  
